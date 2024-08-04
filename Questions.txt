@@ -1,0 +1,12 @@
+Difference between simple Android and Android X?
+
+
+Purpose of below Code?
+   window.setFlags(
+            WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+            WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS
+        )
+
+differnce between tools:visibility and android:visibility?
+
+tools for inside ide view and android for actual on android phones

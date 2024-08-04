@@ -1,0 +1,9 @@
+LiveData is a datastrcuture, View Model handles views,
+It will store data in a model class so if orientation
+changes, no loading needed. Repository is a class, it manages
+data sources. Internal data source is local database, files
+and remote data source as well like from apis using retrofit library.
+ViewModel takes data from repository so viewmodel will handle
+different tasks easily. Model does not know usage of data in Repository.
+There's separation of concerns here.
+

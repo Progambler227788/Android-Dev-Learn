@@ -1,0 +1,3 @@
+Room is an abstract layer that makes Data Access
+Object class for sql lite database.
+It manages accordingly.
